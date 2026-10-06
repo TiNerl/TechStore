@@ -59,7 +59,7 @@ main h2 {
     padding: 40px 10%;
 }
 
-.produtos-section > h1 {
+.produtos-section h1 {
     text-align: center;
     margin-bottom: 30px;
 }
@@ -78,11 +78,6 @@ main h2 {
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: 0.3s;
-}
-
-.produto:hover {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    transform: translateY(-5px);
 }
 
 .produto img {
@@ -191,4 +186,3 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
-

@@ -1,24 +1,31 @@
-# TechStore
-Um trabalho em grupo para apresentação na disciplina de Design Web ministrada pelo docente Italo Berg Souza, o objetivo da apresentação é  mostrar domínio sobre os conceitos e tags anteriormente estudados: HTML e CSS em conjunto com Design Web de Sistemas.
+# Projeto Web
 
----
+Este projeto é uma aplicação web simples que inclui HTML, CSS e imagens.
 
-## Requisitos mínimos esperados:
-- Grupo de 4 pessoas
-- Proibido uso de IA (Tando para consulta, implentação ou qualquer outra finalidade)
-- É permitido consultar slides das aulas, manuais, livros, w3shcools, mozila...
+## Estrutura de Arquivos
 
-1)  Utilizando HTML e CSS crie o site da imagem de exemplo.
-2) Estude o código pois haverá arguição durante a apresentação.
-3) A nota da arguição será individual.
+- **web/**
+  - **index.html**: Página principal da aplicação.
+  - **style.css**: Estilos CSS para a aplicação.
+  - **imagens/**
+    - mouse.jpg: Imagem de um mouse.
+    - notebook.jpg: Imagem de um notebook.
+    - teclado.jpg: Imagem de um teclado.
 
-A página web deve conter:
-    Imagens
-    Listas
-    Tabelas
-    Seletor Classe
-    Seletor ID
-    Fontes personalizadas
-    Cores
-    Padding/Margin
-    Flexbox ou Grid
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd nome_do_projeto
+   ```
+
+3. Abra o arquivo `web/index.html` em um navegador web para visualizar a aplicação.
+
+## Contribuições
+
+Sinta-se à vontade para contribuir com melhorias ou novos recursos para este projeto.
